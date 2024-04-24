@@ -1,4 +1,5 @@
 #git 올리기
 git add .
 git commit -m "commit message"
+commit_msg ex) bonze3_23812
 git push -u origin main
