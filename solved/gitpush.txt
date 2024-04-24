@@ -1,5 +1,8 @@
 #git 올리기
-git add .
+git add solved/23812.py
 git commit -m "commit message"
-commit_msg ex) bonze3_23812
-git push -u origin main
+# commit_msg ex) bonze3_23812
+git push 
+
+
+(-u origin main)
